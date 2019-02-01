@@ -25,134 +25,134 @@
 
 ### 📃 Other lists
 
-- [Awesome React]()
-- [Awesome React Native]()
+- [Awesome React](https://github.com/enaqx/awesome-react)
+- [Awesome React Native](https://github.com/jondot/awesome-react-native)
 
 ### 😎 Blogs
 
-- Official React Blog
-- Kent C. Dodds
-- Leigh Halliday
-- Tyler McGinnis
+- [Official React Blog](https://reactjs.org/blog/)
+- [Kent C. Dodds](https://blog.kentcdodds.com/)
+- [Leigh Halliday](https://www.leighhalliday.com/)
+- [Tyler McGinnis](https://tylermcginnis.com/blog/)
 
 ### 🎥 Videos
 
-- Tyler McGinnis' Courses
-- Wes Bos' React for Beginners
-- Wes Bos' Learn Redux
-- Ben Awad
-- Leigh Halliday
-- egghead.io
+- [Tyler McGinnis' Courses](https://tylermcginnis.com/courses/)
+- [Wes Bos' React for Beginners](https://reactforbeginners.com/)
+- [Wes Bos' Learn Redux](https://learnredux.com/)
+- [Ben Awad](https://www.youtube.com/user/99baddawg)
+- [Leigh Halliday](https://www.youtube.com/user/leighhalliday)
+- [egghead.io](https://egghead.io/browse/frameworks/react)
 
 ### 🛠️ Tools
 
-- Create React App
-- React Router
-- Redux
-- MobX
-- React Developer Tools
+- [Create React App](https://github.com/facebook/create-react-app)
+- [React Router](https://reacttraining.com/react-router/)
+- [Redux](https://redux.js.org/)
+- [MobX](https://github.com/mobxjs/mobx)
+- [React Developer Tools](https://github.com/facebook/react-devtools)
 
 ### 📙 Books
 
-- The Road to learn React
-- Fullstack React
-- React Quickly
-- Learning React
+- [The Road to learn React](https://www.robinwieruch.de/the-road-to-learn-react/)
+- [Fullstack React](https://www.fullstackreact.com/)
+- [React Quickly](https://www.manning.com/books/react-quickly)
+- [Learning React](http://shop.oreilly.com/product/0636920049579.do)
 
 ### 🎤 Podcasts
 
-- The React Podcast
-- React Native Radio
-- React Round Up
+- [The React Podcast](https://changelog.com/reactpodcast)
+- [React Native Radio](https://devchat.tv/react-native-radio)
+- [React Round Up](https://devchat.tv/react-round-up)
 
 ### 🗣 Conferences
 
-- ReactNext
-- React Rally
-- ReactEurope
-- ReactFest
+- [ReactNext](https://react-next.com/)
+- [React Rally](http://www.reactrally.com/)
+- [ReactEurope](https://www.react-europe.org/)
+- [ReactFest](https://reactfest.uk/)
 
 ### 👩‍💻 Community
 
-- React Forum
-- Spectrum
-- Reddit
-- Reactiflux
+- [React Forum](https://discuss.reactjs.org/)
+- [Spectrum](https://spectrum.chat/react)
+- [Reddit](https://www.reddit.com/r/reactjs/)
+- [Reactiflux](https://www.reactiflux.com/)
 
 ### 👌 Other
 
-- freeCodeCamp
-- React VR
-- ReasonReact
-- Preact
-- Inferno
+- [freeCodeCamp](https://www.freecodecamp.org/)
+- [React VR](https://facebook.github.io/react-vr/)
+- [ReasonReact](https://reasonml.github.io/reason-react/)
+- [Preact](https://preactjs.com/)
+- [Inferno](https://infernojs.org/)
 
 ## ![](https://i2.wp.com/issuefixers.com/wp-content/uploads/2017/04/angular-logo.png?ssl=1) Angular
 
 ### 💯 Official
 
-- Angular website
-- Official docs
-- 5-minute Quickstart
-- Cheat Sheet
-- Github Repo
-- Twitter
+- [Angular website](https://angular.io/)
+- [Official docs](https://angular.io/docs)
+- [5-minute Quickstart](https://angular.io/guide/quickstart)
+- [Cheat Sheet](https://angular.io/guide/cheatsheet)
+- [Github Repo](https://github.com/angular/angular)
+- [Twitter](https://twitter.com/angular)
 
 ### 📃 Other lists
 
-- Angular Resources
-- Angular Education
-- Awesome Angular
+- [Angular Resources](https://angular.io/resources/)
+- [Angular Education](https://github.com/timjacobi/angular-education)
+- [Awesome Angular](https://github.com/gdi2290/awesome-angular)
 
 ### 😎 Blogs
 
-- Official Angular Blog
-- Todd Motto
-- Angular In Depth
-- thoughtram
-- Juri Strumpflohner
-- Nrwl
-- Netanel Basal
+- [Official Angular Blog](https://blog.angular.io/)
+- [Todd Motto](https://toddmotto.com/)
+- [Angular In Depth](https://blog.angularindepth.com/)
+- [thoughtram](https://blog.thoughtram.io/categories/angular-2/)
+- [Juri Strumpflohner](https://juristr.com/blog/)
+- [Nrwl](https://blog.nrwl.io/)
+- [Netanel Basal](https://medium.com/@NetanelBasal)
 
 ### 🎥 Videos
 
-- Angular Firebase
-- Ultimate Angular
-- egghead.io
+- [Angular Firebase](https://angularfirebase.com/)
+- [Ultimate Angular](https://ultimateangular.com/)
+- [egghead.io](https://egghead.io/browse/frameworks/angular)
 
 ### 🛠️ Tools
 
-- Angular Material
-- ngrx
-- TypeScript
-- RxJS
-- Augury
-- Nx
-- Angular CLI
-- PrimeNG
+- [Angular Material](https://material.angular.io/)
+- [ngrx](http://ngrx.github.io/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [RxJS](http://reactivex.io/rxjs/)
+- [Augury](https://augury.angular.io/)
+- [Nx](https://nrwl.io/nx)
+- [Angular CLI](https://github.com/angular/angular-cli)
+- [PrimeNG](https://www.primefaces.org/primeng/)
 
 ### 📙 Books
 
-- ng-book
-- Angular Development with Typescript, Second Edition
-- Angular in Action
+- [ng-book](https://www.ng-book.com/2/)
+- [Angular Development with Typescript, Second Edition](https://www.manning.com/books/angular-development-with-typescript-second-edition)
+- [Angular in Action](https://www.manning.com/books/angular-in-action)
 
 ### 🎤 Podcasts
 
-- Adventures in Angular
-- Angular Air
+- [Adventures in Angular](https://devchat.tv/adv-in-angular)
+- [Angular Air](https://angularair.com/)
 
 ### 🗣 Conferences
 
-- ng-conf
-- AngularConnect
-- AngularMix
-- ng-europe
-- Angular Camp
+- [ng-conf](https://www.ng-conf.org/)
+- [AngularConnect](https://www.angularconnect.com/)
+- [AngularMix](https://angularmix.com/)
+- [ng-europe](https://ngeurope.org/)
+- [Angular Camp](https://angularcamp.tech/)
 
 ### 👩‍💻 Community
 
-- Gitter
-- Reddit
-- AngularBeers
+- [Gitter](https://gitter.im/angular/angular)
+- [Reddit](https://www.reddit.com/r/Angular2/)
+- [AngularBeers](https://www.meetup.com/AngularJS-Beers/)
 
