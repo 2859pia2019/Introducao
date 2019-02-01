@@ -12,3 +12,147 @@
 - [React Framework](https://github.com/2859pia2019/Introducao/blob/master/awesome-react.md)
 - [Angular Framework](https://github.com/2859pia2019/Introducao/blob/master/awesome-angular.md)
 - [Node Express](https://github.com/2859pia2019/Introducao/blob/master/awesome-express.md)
+
+## ![](https://d33wubrfki0l68.cloudfront.net/83a655ba436af2f8cc7d826aecaa94cb2a261c5b/0041c/images/logos/react-logo.svg) React
+
+### 💯 Official
+
+- [React website](https://reactjs.org/)
+- [Official docs](https://reactjs.org/docs/hello-world.html)
+- [React Native](https://facebook.github.io/react-native/)
+- [Github Repo](https://github.com/facebook/react)
+- [Twitter](https://twitter.com/reactjs)
+
+### 📃 Other lists
+
+- [Awesome React]()
+- [Awesome React Native]()
+
+### 😎 Blogs
+
+- Official React Blog
+- Kent C. Dodds
+- Leigh Halliday
+- Tyler McGinnis
+
+### 🎥 Videos
+
+- Tyler McGinnis' Courses
+- Wes Bos' React for Beginners
+- Wes Bos' Learn Redux
+- Ben Awad
+- Leigh Halliday
+- egghead.io
+
+### 🛠️ Tools
+
+- Create React App
+- React Router
+- Redux
+- MobX
+- React Developer Tools
+
+### 📙 Books
+
+- The Road to learn React
+- Fullstack React
+- React Quickly
+- Learning React
+
+### 🎤 Podcasts
+
+- The React Podcast
+- React Native Radio
+- React Round Up
+
+### 🗣 Conferences
+
+- ReactNext
+- React Rally
+- ReactEurope
+- ReactFest
+
+### 👩‍💻 Community
+
+- React Forum
+- Spectrum
+- Reddit
+- Reactiflux
+
+### 👌 Other
+
+- freeCodeCamp
+- React VR
+- ReasonReact
+- Preact
+- Inferno
+
+## ![](https://d33wubrfki0l68.cloudfront.net/e43a6aa17a128037b8562069b398163e13e2930c/acfbe/images/logos/angular-logo.svg) Angular
+
+### 💯 Official
+
+- Angular website
+- Official docs
+- 5-minute Quickstart
+- Cheat Sheet
+- Github Repo
+- Twitter
+
+### 📃 Other lists
+
+- Angular Resources
+- Angular Education
+- Awesome Angular
+
+### 😎 Blogs
+
+- Official Angular Blog
+- Todd Motto
+- Angular In Depth
+- thoughtram
+- Juri Strumpflohner
+- Nrwl
+- Netanel Basal
+
+### 🎥 Videos
+
+- Angular Firebase
+- Ultimate Angular
+- egghead.io
+
+### 🛠️ Tools
+
+- Angular Material
+- ngrx
+- TypeScript
+- RxJS
+- Augury
+- Nx
+- Angular CLI
+- PrimeNG
+
+### 📙 Books
+
+- ng-book
+- Angular Development with Typescript, Second Edition
+- Angular in Action
+
+### 🎤 Podcasts
+
+- Adventures in Angular
+- Angular Air
+
+### 🗣 Conferences
+
+- ng-conf
+- AngularConnect
+- AngularMix
+- ng-europe
+- Angular Camp
+
+### 👩‍💻 Community
+
+- Gitter
+- Reddit
+- AngularBeers
+
