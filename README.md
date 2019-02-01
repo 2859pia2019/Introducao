@@ -13,7 +13,7 @@
 - [Angular Framework](https://github.com/2859pia2019/Introducao/blob/master/awesome-angular.md)
 - [Node Express](https://github.com/2859pia2019/Introducao/blob/master/awesome-express.md)
 
-## ![](https://d33wubrfki0l68.cloudfront.net/83a655ba436af2f8cc7d826aecaa94cb2a261c5b/0041c/images/logos/react-logo.svg) React
+## ![](https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-128.png) React
 
 ### 💯 Official
 
@@ -87,7 +87,7 @@
 - Preact
 - Inferno
 
-## ![](https://d33wubrfki0l68.cloudfront.net/e43a6aa17a128037b8562069b398163e13e2930c/acfbe/images/logos/angular-logo.svg) Angular
+## ![](https://i2.wp.com/issuefixers.com/wp-content/uploads/2017/04/angular-logo.png?ssl=1) Angular
 
 ### 💯 Official
 
